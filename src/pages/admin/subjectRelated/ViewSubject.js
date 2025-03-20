@@ -155,9 +155,9 @@ const ViewSubject = () => {
         <Typography variant="h6" gutterBottom>
           Subject Code : {subjectDetails && subjectDetails.subCode}
         </Typography>
-        <Typography variant="h6" gutterBottom>
-          Subject Sessions : {subjectDetails && subjectDetails.sessions}
-        </Typography>
+        // <Typography variant="h6" gutterBottom>
+        //   Subject Sessions : {subjectDetails && subjectDetails.sessions}
+        // </Typography>
         <Typography variant="h6" gutterBottom>
           Number of Students: {numberOfStudents}
         </Typography>
